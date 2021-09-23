@@ -14,4 +14,5 @@ var favoriteFoods = ["pizza", "keebab", "chippy"];
 console.log(favoriteFoods);
 favoriteFoods.shift();
 console.log(favoriteFoods);
+
 console.log(movie.length);
